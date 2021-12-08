@@ -1,0 +1,9 @@
+body {
+    background-image: url(img/BannerFinal.jpg);
+    background-repeat: no-repeat;
+}
+
+.hatsoszin {
+    background-color: rgba(2, 194, 241, 0.74);
+    border-radius: 5px;
+}
