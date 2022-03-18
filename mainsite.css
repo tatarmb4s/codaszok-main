@@ -9,6 +9,15 @@
     margin-bottom: auto;
 }
 
+.cim {
+    display: inline;
+}
+@media (max-width: 529px) {
+    .cim {
+        display: block;
+    }
+  }
+
 .ycenter {
     margin-top: 10rem;
 }
@@ -27,9 +36,18 @@
 
 
 .hatsoszin {
-    background-color: rgba(2, 194, 241, 0.74);
+    background-color: rgba(0, 31, 39, 0.568);
     border-radius: 5px;
     backdrop-filter: blur(10px);
+    padding: 20px;
+}
+
+.hatsocim {
+    font-size: 2rem;
+}
+
+li {
+    font-size: 1.2rem;
 }
 
 .noblur {
