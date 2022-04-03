@@ -1,16 +1,7 @@
 # Codászok kábelekről szóló leírása
- A Neumann János Informatikai technikum 2021-es tanévében a Számitógép alkatrészeinek kábeles projektje.
+ A Neumann János Informatikai technikum 2021-2022-es tanévében az átlalam kiadott projektek főoldala.
 
- # Tennivalók:
-<!-- blank line -->
-----
-<!-- blank line -->
-## Menüpontok:
- - Képátviteli kábelek
- - USB Kábelek
- - Hálózati kábelek
- - Táp kábelek
- - (Egyéb kábelek, de ezen még gonlokozom hogy mi lehet bele)
+A Codászok név alatt futó (ejtsd: kódászok) projektek egy részét a Neumann János Informatikai Technikum (továbbiakban: NEU) 2021/22-es tanévében készítette 3 NEU-s diák. Többségüket én, azaz Tatár Mátyás Bence írtam / készítettem.
 
 ## Fontok:
 
